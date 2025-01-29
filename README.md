@@ -1,9 +1,14 @@
-## Juan Segundo Arnaude
+# Juan Segundo Arnaude
 
-Lenguajes de programación: Assembly, C, C#, Java, Ruby, Python, Javascript, Typescript, Kotlin
-Frameworks de preferencia: NodeJS, ReactJS, Spring
-Manejo de bases de datos: PostgreSQL, MongoDB, Cassandra, Redis, HBase, Neo4J
+### Languages:
+Assembly, C, C#, Java, Ruby, Python, JavaScript, TypeScript, Kotlin  
 
-### Contacto
-juansarnaude@gmail.com jarnaude@itba.edu.ar
+### Frameworks:
+Node.js, React.js, Spring  
 
+### Databases:
+PostgreSQL, MongoDB, Cassandra, Redis, HBase, Neo4J  
+
+### Contact:
+**Email:** juansarnaude@gmail.com | jarnaude@itba.edu.ar  
+**LinkedIn:** [Juan Segundo Arnaude](https://www.linkedin.com/in/juan-segundo-arnaude-5951b0282/)  
